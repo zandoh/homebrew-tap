@@ -94,7 +94,7 @@ Each skill folder in the binary carries its upstream license and notice files.
 | `setup-matt-pocock-skills` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/setup-matt-pocock-skills) | `49dd158` |
 | `setup-pstack` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/pstack/skills/setup-pstack) | `ccb5507` |
 | `show-me-your-work` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/pstack/skills/show-me-your-work) | `ccb5507` |
-| `skill-creator` | [anthropics/skills](https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/skill-creator) | `9d63080` |
+| `skill-creator` | [anthropics/skills](https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/skill-creator) | `dbd4588` |
 | `swarm` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/pstack/skills/swarm) | `ccb5507` |
 | `tdd` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/pstack/skills/tdd) | `ccb5507` |
 | `teach` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/pstack/skills/teach) | `ccb5507` |
@@ -109,7 +109,7 @@ Each skill folder in the binary carries its upstream license and notice files.
 | `verify-this` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/cursor-team-kit/skills/verify-this) | `ccb5507` |
 | `wait-what` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/wait-what) | `49dd158` |
 | `wayfinder` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/wayfinder) | `49dd158` |
-| `webapp-testing` | [anthropics/skills](https://github.com/anthropics/skills/tree/9d630808e4add0a7146de4af9384155d5dee350a/skills/webapp-testing) | `9d63080` |
+| `webapp-testing` | [anthropics/skills](https://github.com/anthropics/skills/tree/dbd4588f9e1033efb41dad4bef2f7947c8993d44/skills/webapp-testing) | `dbd4588` |
 | `why` | [cursor/plugins](https://github.com/cursor/plugins/tree/ccb5507cec1546dc88135c1139c811e6c59115ba/pstack/skills/why) | `ccb5507` |
 | `wizard` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/engineering/wizard) | `49dd158` |
 | `writing-for-agents` | [mattpocock/skills](https://github.com/mattpocock/skills/tree/49dd158d1076134a641b33efb035946536778336/skills/productivity/writing-for-agents) | `49dd158` |
