@@ -2,27 +2,27 @@
 class Zclanker < Formula
   desc "One bundled agent setup (skills and preferences) for every coding agent"
   homepage "https://github.com/zandoh/homebrew-tap"
-  version "0.6.4"
+  version "0.6.5"
 
   on_macos do
     on_arm do
-      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.4/zc-darwin-arm64.tar.gz"
-      sha256 "aa0c0f53ffde2695985a70b2d7ece0a6ee37993c86a5ed1c9480f9b31f026e73"
+      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.5/zc-darwin-arm64.tar.gz"
+      sha256 "26849e1e6740edd2bf548338fe65ac903d90ebd6c3b8016c4f8f956440566acb"
     end
     on_intel do
-      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.4/zc-darwin-x64.tar.gz"
-      sha256 "f387df8b27dc0848caec5905af590d9d2c6f166c1eadf2b799efb71784ae7f05"
+      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.5/zc-darwin-x64.tar.gz"
+      sha256 "a7b37a93d2edbfbd44c1df7388ab99c9f359f95cfaaaa22e00d48c3bad98d906"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.4/zc-linux-arm64.tar.gz"
-      sha256 "7898a703e5d0a998295e8ce22fd5c43f1f1d46741a5dd9e0c5526164485ed30e"
+      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.5/zc-linux-arm64.tar.gz"
+      sha256 "eb3976afd77a9495a9eaf9273ab3b2c322fb9e466f76552016fa9344254cbd3d"
     end
     on_intel do
-      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.4/zc-linux-x64.tar.gz"
-      sha256 "01b3babf9a5f024e3ec9e5499a8f90788dbf399b63f00194fbba6aa68736b75f"
+      url "https://github.com/zandoh/homebrew-tap/releases/download/zclanker-v0.6.5/zc-linux-x64.tar.gz"
+      sha256 "333941c52fc8f5af9658642acc398f650fa39bb3af3e12cb6c6e802249b1e5a0"
     end
   end
 
